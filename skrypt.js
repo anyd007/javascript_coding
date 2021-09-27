@@ -317,4 +317,5 @@ const add = (x, y) => {
     }
 const fun1 = () => console.log(`${score} jest pazyste`);
 const fun2 = () => console.log(`${score} jest niepażyste`);
-add(10,7)
+add(13,5)
+
