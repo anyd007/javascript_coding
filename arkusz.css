@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+  H1{
+      color: yellow;
+      text-align: center;
+  }
+  #link {
+      font-size: 100px;
+      background-color: white;
+      text-align: center;
+  }
+  a {
+      color: tomato;
+  }
